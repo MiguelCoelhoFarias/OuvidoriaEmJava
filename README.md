@@ -1,2 +1,3 @@
 # Ouvidoria feita na linguagem Java
-## trabalho para faculdade
+
+Sistema de ouvidoria utilizando linguagem java com o framework Sprint Boot e padrão REST.
